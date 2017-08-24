@@ -1,1 +1,1 @@
-Jenkins PHP demo
+Kicking ass with Jenkins and Laravel
